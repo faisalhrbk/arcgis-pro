@@ -5,7 +5,7 @@
 
 ## 🛠️ Step 1: Download ArcGIS Pro 3.3
 
-👉 [Click here to download ArcGIS_Pro_33_195466.exe (Official Installer)](https://scuapplicationstorage.blob.core.windows.net/data/Software/WIN/Esri/ArcGISPro/3.3/ArcGISPro_33_190016.exe)
+👉 [Click here to download ArcGIS_Pro_33_195466.exe (Official Installer)](bit.ly/esri-arcgispro)
 
 📦 *The download will start automatically when you click the link.*  
 💡 This is the official Esri installer (unmodified, clean).
